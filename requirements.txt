@@ -1,0 +1,5 @@
+django~=3.5.2
+djangorestframework~=3.10.3
+drf-yasg~=2.3.3
+psycopg2-binary~=2.8.6
+
